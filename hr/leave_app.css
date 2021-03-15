@@ -1,0 +1,22 @@
+body{
+    border: 10px 10px 10px 10px seagreen;
+}
+.leave_form{
+    border: 10px 10px 10px 10px seagreen;
+    
+    border-style: solid;
+    position: relative;
+    border-radius: 17px;
+    background-color: slategray;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.cont{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.cont{
+    width: 700px;
+}

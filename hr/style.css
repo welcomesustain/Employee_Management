@@ -1,0 +1,44 @@
+
+body{
+
+    background-image: url("hr.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 100%; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    opacity: 50px;
+    padding-top: 20px;
+    font-style: inherit;
+    font-family: sans-serif;
+    color: rgb(219, 213, 180) !important;
+}
+
+#box{
+    background-image:'hr.jpg';
+float: left;
+
+display: inline-block;
+
+width: 48.5%;
+
+margin-right: 5px;
+
+padding: 10px;
+
+border: 1px solid rgb(58, 148, 221);
+color: black;
+}
+
+
+.blocks  
+{  
+    background-color:red;  
+    color:white;  
+    border: 1px solid;  
+}  
+
+#count{
+border-radius: 70%;
+border-radius: 50%;
+}
