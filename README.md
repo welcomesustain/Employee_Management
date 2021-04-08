@@ -7,6 +7,12 @@ Employees can Apply for Leave and given they have leave days available
 Admin can either approve or deny Employees Leave application regardless of wheather Employee has days availabe
 Employees can also clain their overtime amount available
 
+# Setup
+import the employee.sql database to your server
+Don't forget to change the configurations on the application
+
 # initial login
 username: Admin 
 password:12345 
+
+
